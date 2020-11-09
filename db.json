@@ -91,7 +91,7 @@
     "footer": {
       "text":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum tempore in, eveniet ex nisi, sint quos dolorem, culpa adipisci blanditiis corporis delectus non similique labore odit facere beatae exercitationem iusto!<p>"
     },
-    "thank-you": {
+    "thankYou": {
       "text": "<h1>Thank you</h1><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum natus veritatis eligendi repellendus, enim minima id beatae quidem nihil. Molestias nihil inventore omnis eveniet totam illo nulla non accusamus fugiat.</p>"
     }
   },
