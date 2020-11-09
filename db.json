@@ -231,7 +231,7 @@
       },
       {
         "type": "freeText",
-        "text": "<p style=\"text-align:center\"><a href=\"#\">Disclaimer</a></p>"
+        "text": "<p style=\"text-align:center\"><a href=\"#disclaimer\">Disclaimer</a></p>"
       }
     ]
   },
