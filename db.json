@@ -154,10 +154,10 @@
           "type": "text",
           "label": "Zipcode",
           "fieldName": "postCode",
-          "mask": "0000AA",
+          "mask": "0000",
           "validation": {
             "required": true,
-            "regex": "\\d{4}[a-zA-Z]{2}"
+            "regex": "\\d{4}"
           }
         },
         {
