@@ -3,6 +3,10 @@
   "content": {
     "header": {
       "brandLogo": "assets/images/four-paws/logo.png",
+      "heroImage": "assets/images/four-paws/hero-banner.jpg"
+    },
+    "header2": {
+      "brandLogo": "assets/images/four-paws/logo.png",
       "heroImage": "assets/images/four-paws/hero-banner.jpg",
       "heroText": "Contribute to a better world for animals"
     },
