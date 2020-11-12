@@ -99,7 +99,7 @@
     "fields": [
       {
         "type": "freeText",
-        "text": "<h2>Personal information</2>"
+        "text": "<h3>Personal information</h3>"
       },
       {
         "type": "radio",
