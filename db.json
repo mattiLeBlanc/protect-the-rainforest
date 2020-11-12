@@ -1,5 +1,5 @@
 {
-  "type": "donate",
+  "type": "DONATE",
   "content": {
     "header": {
       "brandLogo": "assets/images/four-paws/logo.png",
