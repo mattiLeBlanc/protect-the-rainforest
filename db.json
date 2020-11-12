@@ -1,10 +1,6 @@
 {
   "type": "donate",
   "content": {
-    "header2": {
-      "brandLogo": "assets/images/four-paws/logo.png",
-      "heroImage": "assets/images/four-paws/hero-banner.jpg"
-    },
     "header": {
       "brandLogo": "assets/images/four-paws/logo.png",
       "heroImage": "assets/images/four-paws/hero-banner.jpg",
