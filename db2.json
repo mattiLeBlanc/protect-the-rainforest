@@ -146,7 +146,7 @@
         "mask": "00-00-0000",
         "suffix": "MM-DD-YYYY",
         "validation": {
-          "regex": "^[1-3][0-9]-[0-1][0-2]-[1-2][0-9]{3}"
+          "regex": "^[1-3][0-9][0-1][0-2][1-2][0-9]{3}"
         }
       },
       [
@@ -226,6 +226,7 @@
       {
         "type": "button",
         "label": "Yes donate ${donationAmount} ${donationFrequency}",
+        "fieldName": "submitButton",
         "action": "submit",
         "fullWidth": true
       },
@@ -245,4 +246,3 @@
     "styleSheet": "\n/* Specific style overrides go outside the root definition */\n\n    /****** Form area *****/\n\n    app-form-engine {\n      background-color: #ececec;\n    }\n    /* Form field type outline */\n    app-form-engine mat-form-field .mat-form-field-outline {\n      background-color: #fff;\n    }\n\n    /* Radio button */\n    app-form-engine mat-radio-button .mat-radio-outer-circle {\n      background-color: #fff;\n    }\n\n    app-form-engine mat-checkbox .mat-checkbox-inner-container {\n      background-color: #fff;\n    }\n\n    app-form-engine a {\n      color: var(--primary-color);\n    }\n\n    /****** Content area ******/\n\n    /* Custom list item bullet points (https://www.w3.org/Style/Examples/007/color-bullets.en.html) */\n    app-content-article ul {\n      list-style: none;\n      padding: 0 0 0 1em;\n    }\n    app-content-article li::before {\n      content: \"•\";\n      color: var(--primary-color);\n      display: inline-block; width: 1em;\n      margin-left: -1em;\n    }\n    app-content-article li {\n      margin-bottom: 16px;\n    }\n\n    /* Coloured headings, links */\n    app-content-article a,\n    app-content-article h3 {\n      color: var(--primary-color);\n    }\n\n    /****** Typography ******/\n    h1.mat-h1 {}\n    h2.mat-h2 {}\n    h3.mat-h4 {}\n    h4.mat-h4 {}\n    .mat-body-1 p {}\n    .mat-body-2 p {}\n"
   }
 }
-
