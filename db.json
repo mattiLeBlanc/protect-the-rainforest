@@ -226,6 +226,7 @@
       {
         "type": "button",
         "label": "Yes donate ${donationAmount} ${donationFrequency}",
+        "fieldName": "submitButton",
         "action": "submit",
         "fullWidth": true
       },
