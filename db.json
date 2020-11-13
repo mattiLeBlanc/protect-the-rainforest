@@ -18,7 +18,7 @@
         {
           "label": "Once",
           "value": "0",
-          "defaultValue": "20",
+          "defaultAmount": "20",
           "donationAmount": [
             {
               "label": "€ 20,-",
@@ -41,7 +41,7 @@
         {
           "label": "Monthly",
           "value": "12",
-          "defaultValue": "10",
+          "defaultAmount": "10",
           "donationAmount": [
             {
               "label": "€ 5,-",
@@ -64,7 +64,7 @@
         {
           "label": "Yearly",
           "value": "1",
-          "defaultValue": "300",
+          "defaultAmount": "300",
           "donationAmount": [
             {
               "label": "€ 100,-",
