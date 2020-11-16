@@ -1,5 +1,6 @@
 {
   "type": "DONATE",
+  "cid": "112",
   "content": {
     "header": {
       "brandLogo": "assets/images/four-paws/logo.png",
